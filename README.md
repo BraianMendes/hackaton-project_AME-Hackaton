@@ -45,7 +45,7 @@
 
 ### Protótipo
 
-O [AMe data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo atrelado ao [Ame Digital](https://www.amedigital.com/).
+O [AME data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo atrelado ao [Ame Digital](https://www.amedigital.com/).
 
 
 ![](https://i.imgur.com/TZrYTZO.png)
