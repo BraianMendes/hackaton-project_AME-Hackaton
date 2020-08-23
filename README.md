@@ -18,7 +18,7 @@
 #### AME data 
 
 
-   A [**AME data**](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) veio como o objetivo de trazer inteligência aos pequenos sellers através de uma API integrada com inteligência artificial capaz de mapear através de micro dados onde está a maior concentração de clientes disponíveis por região, público alvo, emprestimos e vouchers para fidelização de clientes.
+   A [**AME data**](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) veio como o objetivo de trazer inteligência aos pequenos sellers através de uma API integrada com inteligência artificial capaz de mapear através de micro dados onde está a maior concentração de clientes disponíveis por região, público alvo, emprestimos e vouchers para fidelização de clientes por meio de push-notifications.
  
 
 #### Recursos usados
@@ -45,7 +45,7 @@
 
 ### Protótipo
 
-O [AMe data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo
+O [AMe data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo atrelado ao [Ame Digital](https://www.amedigital.com/).
 
 
 ![](https://i.imgur.com/h0Dn5g8.png)
