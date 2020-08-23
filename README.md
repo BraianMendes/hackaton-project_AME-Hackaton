@@ -39,7 +39,7 @@
 > **“Caraca, muleque, tá me ajudando demais, tô conseguindo vender mais porque sempre tô nos lugares que tem mais gente ”**<br>
 > — Marcos | Ambulante
 
-> **“Agora tenho mais opções de pagamento de um modo seguro, muito melhor, né?!”**<br>
+> **“Agora tenho mais opções de pagamento de um modo seguro, muito melhor, né?! Fora que esses cupons de desconto são muito top!”**<br>
 > — Alice | Cliente
 
 
