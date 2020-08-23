@@ -1,7 +1,7 @@
 
 
 
-## [Amiercanas Summit Hack](http://www.summithack.com.br/) 
+## [Americanas Summit Hack](http://www.summithack.com.br/) 
 ####  [B2W](https://www.b2wmarketplace.com.br/v3/) | [Americanas.com](https://www.americanas.com.br/) | [Lojas Americanas](https://www.facebook.com/lojasamericanas/) |  [Submarino](https://www.submarino.com.br/) | [Shoptime](https://www.shoptime.com.br/) | [SouBarato](https://www.soubarato.com.br/) | [Supermercado Now](https://supermercadonow.com/)
 
 
@@ -18,7 +18,7 @@
 #### AME data 
 
 
-   A [**AME data**](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) veio como o objetivo d
+   A [**AME data**](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) veio como o objetivo de trazer inteligência aos pequenos sellers através de uma API integrada com inteligência artificial capaz de mapear através de micro dados onde está a maior concentração de clientes disponíveis por região, público alvo, emprestimos e vouchers para fidelização de clientes.
  
 
 #### Recursos usados
