@@ -62,7 +62,7 @@ Com essas informações vamos prestar uma consultoria sob-medida aos pequeno ou 
 <table>
   <tr>
     <td align="center"><a href="https://www.youtube.com/watch?v=oILJfLqnO6U&feature=youtu.be"><img src="https://i.imgur.com/4qAhuxm.png" width="280px;" alt=""/><br /><sub><b>Pitch</b></sub></a><br /><a href="https://www.youtube.com/watch?v=oILJfLqnO6U&feature=youtu.be" title="YouTube">🎥</a></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=oILJfLqnO6U&feature=youtu.be"><img src="https://i.imgur.com/d2mxDCr.png" width="280px;" alt=""/><br /><sub><b>Demo</b></sub></a><br /><a href="https://youtu.be/3BnGhhH21CE" title="YouTube">🎥</a></td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=3BnGhhH21CE&feature=youtu.be"><img src="https://i.imgur.com/d2mxDCr.png" width="280px;" alt=""/><br /><sub><b>Demo</b></sub></a><br /><a href="https://www.youtube.com/watch?v=3BnGhhH21CE&feature=youtu.be" title="YouTube">🎥</a></td>
 </table>
 
 
