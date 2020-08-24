@@ -1,9 +1,9 @@
 module.exports = {
-    "name": "project",
-    "title": "project",
-    "slug": "project",
+    "name": "AME Data",
+    "title": "AME Data",
+    "slug": "AME Data",
     "organization": {
-        "name": "project",
+        "name": "AME Data",
         "owner": {
             "email": "00.braian.dev@gmail.com"
         }

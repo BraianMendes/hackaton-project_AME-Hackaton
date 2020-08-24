@@ -23,6 +23,6 @@ export default class Home {
 
     // Esta função navega entre as telas
     navigateTo = (item) => {
-        Ame.navigation.navigate(item.to)
+        Ame.navigation.navigate('Reports')
     }
 }
