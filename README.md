@@ -48,7 +48,7 @@
 O [AME data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo atrelado ao [Ame Digital](https://www.amedigital.com/).
 
 
-![](https://i.imgur.com/GQP3igw.png)
+![](https://i.imgur.com/pecO0Id.png)
 
 ![](https://i.imgur.com/OJMXjbn.png)
 
