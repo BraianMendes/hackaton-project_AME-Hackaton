@@ -39,6 +39,9 @@
 > **“Caraca, muleque, tá me ajudando demais, tô conseguindo vender mais porque sempre tô nos lugares que tem mais gente ”**<br>
 > — Marcos | Ambulante
 
+> **“Agora vou conseguir me reerguer, as taxas de juros cabem no meu bolso e meu faturamento tá aumentando com essa forma de pagamento! ”**<br>
+> — Maria | Empreendedora
+
 > **“Agora tenho mais opções de pagamento de um modo seguro, muito melhor, né?! Fora que esses cupons de desconto são muito top!”**<br>
 > — Alice | Cliente
 
