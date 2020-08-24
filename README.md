@@ -66,6 +66,16 @@ Com essas informações vamos prestar uma consultoria sob-medida aos pequeno ou 
 </table>
 
 
+### Entregas
+
+####  ○  📲 [Mini-app](https://github.com/BraianMendes/AME-Hackaton/tree/master/Mini-App)
+
+####  ○  📊 [Notebook - Análise de Clusters](https://github.com/BraianMendes/AME-Hackaton/blob/master/An%C3%A1lise_Clusters.ipynb)
+
+####  ○  🖼️ [Apresentação](https://bit.ly/AMEdata_Apresentacao )
+
+
+
 ### Time 03
 
 <table>
