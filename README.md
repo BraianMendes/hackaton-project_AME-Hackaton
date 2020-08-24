@@ -45,9 +45,9 @@
 
 ### Protótipo
 
-O [AME data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo atrelado ao [Ame Digital](https://www.amedigital.com/) e veio como o objetivo de trazer inteligência aos pequenos e médios sellers através de uma API integrada com inteligência artificial capaz de mapear através de micro dados onde está a maior concentração de clientes disponíveis por região, público alvo, empréstimos e vouchers para fidelização de clientes por meio de push-notifications. E o app também cria clusters dos perfis de clientes da AME, que tem como base uma técnica de Machine Learning, chamada de K-Means, onde ele considera a sua renda anual, idade, sexo e escore de gastos. 
+O [AME data](https://www.figma.com/proto/3mR0ldE1n67tsEDts17Qt6/Ame-Data?node-id=439%3A23&scaling=scale-down) é um mini aplicativo atrelado ao [Ame Digital](https://www.amedigital.com/) e veio como o objetivo de trazer inteligência aos pequenos e médios sellers através de uma API integrada com inteligência artificial capaz de mapear através de micro dados onde está a maior concentração de clientes disponíveis por região, público alvo, empréstimos e vouchers para fidelização de clientes por meio de push-notifications. E o app também cria clusters dos perfis de clientes da AME, que tem como base uma técnica de Machine Learning, chamada de [K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), onde ele considera a sua renda anual, idade, gênero e score de gastos. 
 
-Com essas informações vamos prestar uma consultoria sob-medida aos pequeno ou médio empreendedor, abordando a melhor maneira de agir em função dos diferentes perfis de clientes da região do seu estabelecimento, que compram com AME. Assim todos ganham, pois o empresário ganha mais informações para aumentar o seu faturamento e AME cresce junto com esses empreendedores.
+Com essas informações vamos prestar uma consultoria sob-medida aos pequeno ou médio empreendedor, abordando a melhor maneira de agir em função dos diferentes perfis de clientes da região do seu estabelecimento, que compram com AME. Assim todos ganham, pois a pessoa empreendedora ganha mais informações para aumentar o seu faturamento e a [AME Digital](https://www.amedigital.com/) cresce junto.
 
 
 ![](https://i.imgur.com/pecO0Id.png)
