@@ -1,5 +1,5 @@
 <h1>Mini-App AME Data</h1>
-> Mini-App Ame para exposição da BI da API AME Data
+> Mini-App Ame para exposição da BI da API AME data
 
 Descrição
 
@@ -27,5 +27,5 @@ ame-app-tools --version
 ```
 <br>
 
-<h2>Execução do Mini-App</h2>
+
 
